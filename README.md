@@ -1,3 +1,3 @@
-# AC308
+# AC308 - INATEL
 
-Atividades Complementares - JSF
+Atividades Complementares - JSF (Java Web)
